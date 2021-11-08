@@ -1,4 +1,5 @@
 #!/bin/bash
+# Author True Virus
 
 if [[ "$1" && -f "$1" ]]; then
     FILE="$1"
